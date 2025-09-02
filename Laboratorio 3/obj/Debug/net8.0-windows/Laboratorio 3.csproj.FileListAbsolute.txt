@@ -1,0 +1,16 @@
+C:\Users\Saniv\source\repos\Laboratorio 3\Laboratorio 3\obj\Debug\net8.0-windows\Laboratorio_3.Form1.resources
+C:\Users\Saniv\source\repos\Laboratorio 3\Laboratorio 3\obj\Debug\net8.0-windows\Laboratorio 3.csproj.GenerateResource.cache
+C:\Users\Saniv\source\repos\Laboratorio 3\Laboratorio 3\obj\Debug\net8.0-windows\Laboratorio 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saniv\source\repos\Laboratorio 3\Laboratorio 3\obj\Debug\net8.0-windows\Laboratorio 3.AssemblyInfoInputs.cache
+C:\Users\Saniv\source\repos\Laboratorio 3\Laboratorio 3\obj\Debug\net8.0-windows\Laboratorio 3.AssemblyInfo.cs
+C:\Users\Saniv\source\repos\Laboratorio 3\Laboratorio 3\obj\Debug\net8.0-windows\Laboratorio 3.csproj.CoreCompileInputs.cache
+C:\Users\Saniv\source\repos\Laboratorio 3\Laboratorio 3\bin\Debug\net8.0-windows\Laboratorio 3.exe
+C:\Users\Saniv\source\repos\Laboratorio 3\Laboratorio 3\bin\Debug\net8.0-windows\Laboratorio 3.deps.json
+C:\Users\Saniv\source\repos\Laboratorio 3\Laboratorio 3\bin\Debug\net8.0-windows\Laboratorio 3.runtimeconfig.json
+C:\Users\Saniv\source\repos\Laboratorio 3\Laboratorio 3\bin\Debug\net8.0-windows\Laboratorio 3.dll
+C:\Users\Saniv\source\repos\Laboratorio 3\Laboratorio 3\bin\Debug\net8.0-windows\Laboratorio 3.pdb
+C:\Users\Saniv\source\repos\Laboratorio 3\Laboratorio 3\obj\Debug\net8.0-windows\Laboratorio 3.dll
+C:\Users\Saniv\source\repos\Laboratorio 3\Laboratorio 3\obj\Debug\net8.0-windows\refint\Laboratorio 3.dll
+C:\Users\Saniv\source\repos\Laboratorio 3\Laboratorio 3\obj\Debug\net8.0-windows\Laboratorio 3.pdb
+C:\Users\Saniv\source\repos\Laboratorio 3\Laboratorio 3\obj\Debug\net8.0-windows\Laboratorio 3.genruntimeconfig.cache
+C:\Users\Saniv\source\repos\Laboratorio 3\Laboratorio 3\obj\Debug\net8.0-windows\ref\Laboratorio 3.dll
