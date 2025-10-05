@@ -1,0 +1,16 @@
+C:\Users\Saniv\source\repos\Laboratorio3_problema2\Laboratorio3_problema2\bin\Debug\net8.0-windows\Laboratorio3_problema2.exe
+C:\Users\Saniv\source\repos\Laboratorio3_problema2\Laboratorio3_problema2\bin\Debug\net8.0-windows\Laboratorio3_problema2.deps.json
+C:\Users\Saniv\source\repos\Laboratorio3_problema2\Laboratorio3_problema2\bin\Debug\net8.0-windows\Laboratorio3_problema2.runtimeconfig.json
+C:\Users\Saniv\source\repos\Laboratorio3_problema2\Laboratorio3_problema2\bin\Debug\net8.0-windows\Laboratorio3_problema2.dll
+C:\Users\Saniv\source\repos\Laboratorio3_problema2\Laboratorio3_problema2\bin\Debug\net8.0-windows\Laboratorio3_problema2.pdb
+C:\Users\Saniv\source\repos\Laboratorio3_problema2\Laboratorio3_problema2\obj\Debug\net8.0-windows\Laboratorio3_problema2.Form1.resources
+C:\Users\Saniv\source\repos\Laboratorio3_problema2\Laboratorio3_problema2\obj\Debug\net8.0-windows\Laboratorio3_problema2.csproj.GenerateResource.cache
+C:\Users\Saniv\source\repos\Laboratorio3_problema2\Laboratorio3_problema2\obj\Debug\net8.0-windows\Laboratorio3_problema2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saniv\source\repos\Laboratorio3_problema2\Laboratorio3_problema2\obj\Debug\net8.0-windows\Laboratorio3_problema2.AssemblyInfoInputs.cache
+C:\Users\Saniv\source\repos\Laboratorio3_problema2\Laboratorio3_problema2\obj\Debug\net8.0-windows\Laboratorio3_problema2.AssemblyInfo.cs
+C:\Users\Saniv\source\repos\Laboratorio3_problema2\Laboratorio3_problema2\obj\Debug\net8.0-windows\Laboratorio3_problema2.csproj.CoreCompileInputs.cache
+C:\Users\Saniv\source\repos\Laboratorio3_problema2\Laboratorio3_problema2\obj\Debug\net8.0-windows\Laboratorio3_problema2.dll
+C:\Users\Saniv\source\repos\Laboratorio3_problema2\Laboratorio3_problema2\obj\Debug\net8.0-windows\refint\Laboratorio3_problema2.dll
+C:\Users\Saniv\source\repos\Laboratorio3_problema2\Laboratorio3_problema2\obj\Debug\net8.0-windows\Laboratorio3_problema2.pdb
+C:\Users\Saniv\source\repos\Laboratorio3_problema2\Laboratorio3_problema2\obj\Debug\net8.0-windows\Laboratorio3_problema2.genruntimeconfig.cache
+C:\Users\Saniv\source\repos\Laboratorio3_problema2\Laboratorio3_problema2\obj\Debug\net8.0-windows\ref\Laboratorio3_problema2.dll
